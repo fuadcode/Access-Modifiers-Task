@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Access Modifiers-Task", "Access Modifiers-Task\Access Modifiers-Task.csproj", "{CE97BA56-3600-4609-8FC3-C0F6B09F378F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE97BA56-3600-4609-8FC3-C0F6B09F378F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE97BA56-3600-4609-8FC3-C0F6B09F378F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE97BA56-3600-4609-8FC3-C0F6B09F378F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE97BA56-3600-4609-8FC3-C0F6B09F378F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8DD1D35-FEC6-4FCB-8735-4145290AB446}
+	EndGlobalSection
+EndGlobal
